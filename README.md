@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dawnis
-- 👀 I’m interested in Data Science and Scala
-- 🌱 I’m currently learning Web Dev
+- 👀 I’m interested in Data Science, Statistics, and Machine Learning
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything interesting. 
 - 📫 How to reach me: LinkedIn, email, or here. 
 
